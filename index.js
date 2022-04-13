@@ -1,1 +1,1 @@
-const isPalindrome = (()=>());
+const isPalindrome = () => {};
